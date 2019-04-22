@@ -1,6 +1,8 @@
 
 #%%
+#teste
 
+#foi?
 
 #Projeto EP1 - Jogo de Gabriel Yamashita e Luis Felipe
 
